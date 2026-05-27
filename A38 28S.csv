@@ -1,3 +1,21 @@
+Node_IDs,Italic_index,Group_flag
+A38,,1
+Debaryomyces_hansenii_NRRL_Y-7426,"0,1",0
+Debaryomyces_robertsiae_NRRL_Y-6670,"0,1",0
+Candida_multigemmis_NRRL_Y-17659,"0,1",0
+Candida_boleticola_NRRL_Y-17080,"0,1",0
+Kurtzmaniella_cleridarum_NRRL_Y-48386,"0,1",0
+Priceomyces_carsonii_NRRL_YB-4275,"0,1",0
+Schwanniomyces_occidentalis_NRRL_Y-10,"0,1",0
+Schwanniomyces_etchellsii_NRRL_Y-7121,"0,1",0
+Scheffersomyces_spartinae_NRRL_Y-7322,"0,1",0
+Nematodospora_valgi_CBS_12562,"0,1",0
+Nakazawaea_holstii_NRRL_Y-2155,"0,1",0
+Babjeviella_inositovora_NRRL_Y-12698,"0,1",0
+Citeromyces_matritensis_NRRL_Y-2407,"0,1",0
+Ogataea_siamensis_ATCC_MYA-4464,"0,1",0
+Ogataea_nakhonphanomensis_ATCC_MYA-4463,"0,1",0
+Lasiobolidium_orbiculoides_CBS_344.73,"0,1",0
 raw_id,cleaned,scientific_name,collection_id
 A38,A38,A38,
 Debaryomyces_hansenii_NRRL_Y-7426,Debaryomyces hansenii NRRL Y-7426,Debaryomyces hansenii,NRRL_Y-7426

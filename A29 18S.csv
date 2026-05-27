@@ -1,3 +1,23 @@
+Node_IDs,Italic_index,Group_flag
+Filobasidium_uniguttulatum_JCM_3685,"0,1",0
+Heterocephalacria_septentrionalis_KBP_MSU_Y-6500,"0,1",0
+A29,,1
+Tausonia_pamirica_CBS_8428,"0,1",0
+Pseudomicrostroma_glucosiphilum_CBS_14053,"0,1",0
+Basidioascus_undulatus_DAOM_241956,"0,1",0
+Basidioascus_magus_DAOM_241948,"0,1",0
+Symmetrospora_pseudomarina_PUL_SA716,"0,1",0
+Bimuria_novae-zelandiae_CBS_107.79,"0,1",0
+Phaeoisaria_fasciculata_CBS_127885,"0,1",0
+Babjevia_hyphoforaminiformans_NBRC_111233,"0,1",0
+Trigonopsis_variabilis_NRRL_Y-1579,"0,1",0
+Middelhovenomyces_tepae_JCM_10265,"0,1",0
+Sugiyamaella_chiloensis_JCM_9583,"0,1",0
+Alloascoidea_hylecoeti_NRRL_Y-17634,"0,1",0
+Candida_sinolaborantium_NRRL_Y-27765,"0,1",0
+Ambrosiozyma_pseudovanderkliftii_NRRL_Y-63632,"0,1",0
+Ascoidea_asiatica_NRRL_Y-17632,"0,1",0
+Starmerella_lactis-condensi_JCM_9472,"0,1",0
 raw_id,cleaned,scientific_name,collection_id
 Filobasidium_uniguttulatum_JCM_3685,Filobasidium uniguttulatum JCM 3685,Filobasidium uniguttulatum,JCM_3685
 Heterocephalacria_septentrionalis_KBP_MSU_Y-6500,Heterocephalacria septentrionalis KBP MSU Y-6500,Heterocephalacria septentrionalis,KBP_MSU_Y-6500

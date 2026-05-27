@@ -1,3 +1,24 @@
+Node_IDs,Italic_index,Group_flag
+Mrakia_fibulata_DSM103931,"0,1",0
+Mrakia_aquatica_CBS5443,"0,1",0
+Mrakia_nivalis_CBS5266,"0,1",0
+Mrakia_cryoconiti_CBS10834,"0,1",0
+Mrakia_stelviica_DBVPG10734,"0,1",0
+Tausonia_pamirica_CBS8428,"0,1",0
+A29,,1
+Guehomyces_pullulans_CBS2532,"0,1",0
+Itersonilia_diksonensis_DSM100169,"0,1",0
+Itersonilia_pannonica_JCM11145,"0,1",0
+Itersonilia_perplexans_JCM10245,"0,1",0
+Krasilnikovozyma_fibulata_DSM105054,"0,1",0
+Krasilnikovozyma_huempii_CBS8186,"0,1",0
+Krasilnikovozyma_curviuscula_PYCC5836,"0,1",0
+Udeniomyces_pyricola_CBS6754,"0,1",0
+Udeniomyces_puniceus_CBS5689,"0,1",0
+Udeniomyces_megalosporus_CBS7236,"0,1",0
+Cystofilobasidium_macerans_CBS10757,"0,1",0
+Cystofilobasidium_capitatum_CBS6358,"0,1",0
+Holtermanniella_takashimae_CBS11174,"0,1",0
 raw_id,cleaned,scientific_name,collection_id
 Mrakia_fibulata_DSM103931,Mrakia fibulata DSM103931,Mrakia fibulata,DSM103931
 Mrakia_aquatica_CBS5443,Mrakia aquatica CBS5443,Mrakia aquatica,CBS5443

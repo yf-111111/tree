@@ -1,3 +1,20 @@
+Node_IDs,Italic_index,Group_flag
+Debaryomyces_prosopidis_JCM9913,"0,1",0
+Debaryomyces_fabryi_CBS789,"0,1",0
+A38,,1
+Debaryomyces_vindobonensis_CBS11666,"0,1",0
+Debaryomyces_hansenii_JCM1990,"0,1",0
+Debaryomyces_psychrosporus_CBS11845,"0,1",0
+Debaryomyces_nepalensis_JCM2095,"0,1",0
+Candida_psychrophila_CBS5956,"0,1",0
+Debaryomyces_coudertii_CBS,"0,1",0
+Debaryomyces_renaii_ATCCMYA-4749,"0,1",0
+Debaryomyces_maramus_CBS1958,"0,1",0
+Debaryomyces_robertsiae_CBS2934,"0,1",0
+Debaryomyces_udenii_JCM7855,"0,1",0
+Debaryomyces_udenii_CBS7056,"0,1",0
+Debaryomyces_macquariensis_CBS5572,"0,1",0
+Saccharomyces_cerevisiae_CBS1171,"0,1",0
 raw_id,cleaned,scientific_name,collection_id
 Debaryomyces_prosopidis_JCM9913,Debaryomyces prosopidis JCM9913,Debaryomyces prosopidis,JCM9913
 Debaryomyces_fabryi_CBS789,Debaryomyces fabryi CBS789,Debaryomyces fabryi,CBS789
